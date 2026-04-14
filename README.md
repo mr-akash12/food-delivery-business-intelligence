@@ -43,7 +43,7 @@ This project solves these using data-driven insights.
 
 ## 🔄 Data Pipeline & Workflow
 
-![Data Pipeline & Workflow](images/data_pipeline.png)
+![Data Pipeline & Workflow](Data pipeline & workflow overview.png)
 
 ### 🧠 Pipeline Explanation
 
