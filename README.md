@@ -63,7 +63,7 @@ This project solves these using data-driven insights.
 
 ### 🏠 Executive Overview
 
-![Dashboard](dashboard_page1.png)
+![Dashboard](images/dashboard_page1.png)
 
 ---
 
